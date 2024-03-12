@@ -41,6 +41,8 @@ Description : I'am learning front-end web development in depth
 ![Bootstrap](https://img.shields.io/badge/bootstrap-05122A?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
