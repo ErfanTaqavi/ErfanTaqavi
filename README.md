@@ -10,12 +10,12 @@
 your welcome
 
 
-<yaml>
-Fullname: Erfan Taqavi
-Located_in: Mashhad-Iran
-Current_job: Web Developer
-Description : I am learning front-end web development in depth
-</yaml>
+<pre><span class="pl-ent">Fullname</span>: <span class="pl-s">Erfan Taqavi</span>
+<span class="pl-ent">Located_in</span>: <span class="pl-s">Mashhad-Iran</span>
+<span class="pl-ent">Current_job</span>: <span class="pl-s">Web Developer</span>
+<span class="pl-ent">Description </span>: <span class="pl-s">I am learning front-end web development in depth</span>
+</pre> 
+
 
 <h2> 🚀 &nbsp;The languages and tools that we spend our time together:</h2>
 
