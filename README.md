@@ -34,11 +34,11 @@ Description : I'am learning front-end web development in depth
 <h2> 🚀 &nbsp;The languages and tools that we spend our time together:</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-]![HTML5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
+![HTML5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-238511FA?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/bootstrap-05122A?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
